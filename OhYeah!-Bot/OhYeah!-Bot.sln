@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OhYeah!-Bot", "OhYeah!-Bot\OhYeah!-Bot.pyproj", "{EAE0AF72-179D-4253-BF7F-A69A6A5CB303}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFF990D6-C745-4479-ACEB-1F98B930932B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE0AF72-179D-4253-BF7F-A69A6A5CB303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0AF72-179D-4253-BF7F-A69A6A5CB303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BFDA6A-FCD1-41A6-AF6F-96631334E709}
+	EndGlobalSection
+EndGlobal
