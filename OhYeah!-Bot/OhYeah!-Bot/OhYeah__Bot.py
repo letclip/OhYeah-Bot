@@ -21,7 +21,7 @@ def bot_login(): # Logs the bot into reddit
     # initialize with appropriate values
     client_id = "" 
     client_secret = "" 
-    username = "" 
+    username = ""  # Removed details here for privacy.
     password = "" 
     user_agent = "" 
 
